@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello 지순, 지민, 지현");
+	printf("Hello World");
 	return 0;
 }
