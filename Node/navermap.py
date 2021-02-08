@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import pymongo
 
-driver = webdriver.Chrome('C:\pythonlib\chromedriver_win32\chromedriver.exe')
+driver = webdriver.Chrome('User chromedriver path')
 connection = pymongo.MongoClient('localhost', 27017)
 db=connection.for_graduation
 collection=db.store
