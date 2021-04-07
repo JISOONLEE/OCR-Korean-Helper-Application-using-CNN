@@ -24,11 +24,13 @@
 
 
 ### 업무 분담
-+ 이지순
- - 서버
- - DB
-+ 정지민
- - OCR
- - 영상처리
-+ 홍지현
- - 어플 제작
+JISOONLEE
+ + Server
+ + Database
+
+Ji-Min Jeong(jeomn)
+ + OCR
+ + Image Preprocessing
+
+HongHong0715
+ + Application
