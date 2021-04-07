@@ -7,4 +7,4 @@
 + 영어를 사용하는 외국인 여행객을 위한 번역 정보 제공
 
 ### 시스템 구성도
-![이미지](https://github.com/JISOONLEE/OCR-Korean-Helper-Application-using-CNN/blob/master/img/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.JPG)
+<img src = "https://github.com/JISOONLEE/OCR-Korean-Helper-Application-using-CNN/blob/master/img/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.JPG" width="300" height="200" >
