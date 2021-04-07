@@ -8,3 +8,6 @@
 
 ### 시스템 구성도
 <img src = "https://github.com/JISOONLEE/OCR-Korean-Helper-Application-using-CNN/blob/master/img/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.JPG" width="500">
+
+### 개발 결과
++ 최종 Application UI
