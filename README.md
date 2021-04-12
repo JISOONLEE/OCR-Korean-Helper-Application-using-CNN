@@ -1,5 +1,5 @@
 # OCR Korean Helper Application using CNN
-한국산업기술대학교 졸업작품
+[한국산업기술대학교 졸업작품]
 외국인 여행객을 위한 OCR 한글 도우미 어플리케이션
 
 ### 프로젝트 개요
